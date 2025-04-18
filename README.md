@@ -1,5 +1,4 @@
-# Abdul-Rafay-Mohammed
-# 👋 Hi, I'm Abdul Rafay Mohammed
+# 👋 Hi, I'm Abdul
 
 **Data Analytics Professional | Business Intelligence Enthusiast | Deloitte Alumni**  
 📍 Toronto, Canada | 📧 abdulrafaymohammed365@gmail.com  
