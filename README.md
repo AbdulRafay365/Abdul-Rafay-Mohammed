@@ -27,9 +27,6 @@ Segmented retail customers using **PCA** and **K-Means Clustering** to power per
 ### 🛠️ [Data Warehouse Architecture in PostgreSQL](https://github.com/AbdulRafay365/Data-Warehouse-Architecture-and-ETL-in-PostgreSQL)
 Designed a full-stack **data warehouse** using **Medallion Architecture**, integrating ETL pipelines in **PostgreSQL**.
 
-### 📉 [Canada Employment Analysis with R](https://github.com/AbdulRafay365/Canada-Employment-Statistical-Analysis-with-R)
-Exploratory and inferential analysis of Canadian employment trends using R.
-
 ### 💳 [Fraud Detection in Credit Card Transactions](https://github.com/AbdulRafay365/Fraud-Detection-in-Credit-Card-Transactions)
 Tested classification models to detect fraud, optimize precision, and reduce false positives in financial data.
 
